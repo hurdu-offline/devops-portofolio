@@ -1,0 +1,17 @@
+==========================================
+		RAPORT STARE SISTEM LINUX 	
+Data: luni 26 octombrie 2026, 21:43:26 +0200
+Hostname: pc-Inspiron-3593
+==========================================
+
+2. Utilizare Spatiu Disc:
+Sistem de fișiere Dimensiune Utilizat Liber Utilizat% Montat pe
+/dev/sda2               228G      21G  196G       10% /
+
+--- VERIFICARE ALERTA STOCARE ---
+OK: Spatiul ocupat pe disc este in limite normale (10% utilizat).
+
+3. Incarcare Procesor (Uptime):
+ 21:43:26 up  1:43,  1 user,  load average: 1,05, 0,74, 0,59
+
+=====================================
